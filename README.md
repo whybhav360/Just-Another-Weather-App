@@ -102,7 +102,12 @@ flutter run
 
 📸 Screenshots
 
-TODO
+<img width="1080" height="2400" alt="Screenshot_20260102_165844" src="https://github.com/user-attachments/assets/484559a2-703b-463f-95ec-3264aeeb80b0" />
+
+
+![gif](https://github.com/user-attachments/assets/49e1ada9-76d4-457d-b68d-bf2c1d7f6c6f)
+
+
 
 👤 Author
 
