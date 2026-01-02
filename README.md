@@ -1,16 +1,50 @@
-# weather_app
+☁️ Flutter Weather App
+A simple, elegant weather application built with Flutter that fetches real-time weather data using the OpenWeatherMap API. The app demonstrates the use of asynchronous programming, REST API integration, and Material Design 3 UI components.
+📱 Features
+•
+Real-time Weather Data: Fetches current temperature, humidity, wind speed, and pressure.
+•
+Hourly Forecast: Horizontal scrollable list showing weather predictions for the upcoming hours.
+•
+Material Design 3: utilizes the latest Flutter dark theme for a modern look.
+•
+Pull to Refresh: (Implicit in FutureBuilder logic) Updates data dynamically on app load.
+•
+Responsive Layout: Handles scrollable content to prevent overflow errors on smaller screens.
+📸 Screenshots
 
-A new Flutter project.
+🛠️ Tech Stack
+•
+Framework: Flutter
+•
+Language: Dart
+•
+API: OpenWeatherMap API
+•
+Packages used:
+◦
+http: For making network requests.
+◦
+intl: For formatting time and dates.
+🚀 Getting Started
+Prerequisites
+•
+Flutter SDK installed on your machine.
+•
+An API Key from OpenWeatherMap.
+Installation
+1.
+Clone the repository:
 
-## Getting Started
+git clone https://github.com/whybhav360/Just-Another-Weather-App
+cd weather-app
 
-This project is a starting point for a Flutter application.
+2.
+Install dependencies:
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. 
+Create a Secrets.dart file
+String openWeatherAPIKey = 'YOUR_API_KEY_HERE';
+        
