@@ -102,10 +102,10 @@ flutter run
 
 📸 Screenshots
 
-<img width="1080" height="2400" alt="Screenshot_20260102_165844" src="https://github.com/user-attachments/assets/484559a2-703b-463f-95ec-3264aeeb80b0" />
+<img width="500" height="500" alt="Screenshot_20260102_165844" src="https://github.com/user-attachments/assets/484559a2-703b-463f-95ec-3264aeeb80b0" />
 
+![Screen_recording_20260102_165859-ezgif com-resize](https://github.com/user-attachments/assets/acfa164a-f58f-459f-91c2-aa5be271f18a)
 
-![gif](https://github.com/user-attachments/assets/49e1ada9-76d4-457d-b68d-bf2c1d7f6c6f)
 
 
 
